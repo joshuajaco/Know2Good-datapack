@@ -20,7 +20,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{Unbreakable:1}"
+              "tag": "{Unbreakable:1,RepairCost:90,Enchantments:[{id:\"vanishing_curse\",lvl:1}]}"
             },
             {
               "function": "set_name",
